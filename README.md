@@ -1,4 +1,4 @@
-# Unity-KeepSceneFocus
+# KeepSceneFocus
   
 Ever get annoyed that you have to click Scene view every time you press play?  
 Me too.  
