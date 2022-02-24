@@ -9,7 +9,7 @@ It also has a feature that lets the VRC SDK bypass the script whenever the "Buil
   
 -------------------------------------------
 ### INSTALLATION:
-1) Download the "KeepSceneFocus.cs" file.  
+1) Download the Unitypackage or the "KeepSceneFocus.cs" file.  
 2) Put it anywhere in your Assets folder.  
 3) Open KSF from the Menu bar at the top left of Unity (next to "File" "Edit" etc).  
 4) Press the big "Create GameObject" button.  
